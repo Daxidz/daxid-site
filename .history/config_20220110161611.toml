@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Dax House'
+theme = ["techfeed-hugo'", "hugo-shortcode-gallery"]

@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Dax House'
+theme = ["terminal", "hugo-shortcode-gallery"]
+
+
