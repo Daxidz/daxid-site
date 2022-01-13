@@ -1,11 +1,12 @@
-!./public/assets
-!./public/categories
-!./public/img
-!./public/page
-!./public/pixelart
-!./public/shortcode-gallery
-!./public/tags
-!./public/404.html
-!./public/index.html
-!./public/sitemap.html
-!./public/index.xml
+!./public/
+# !./public/assets
+# !./public/categories
+# !./public/img
+# !./public/page
+# !./public/pixelart
+# !./public/shortcode-gallery
+# !./public/tags
+# !./public/404.html
+# !./public/index.html
+# !./public/sitemap.html
+# !./public/index.xml
