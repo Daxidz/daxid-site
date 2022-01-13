@@ -1,1 +1,11 @@
-!./public
+!./public/
+# !./public/assets
+# !./public/categories
+# !./public/page
+# !./public/pixelart
+# !./public/shortcode-gallery
+# !./public/shortcode-tags
+# !./public/404.html
+# !./public/index.html
+# !./public/sitemap.html
+# !./public/index.xml
