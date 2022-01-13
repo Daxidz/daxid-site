@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
       
       - name: SFTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
           ftp-server: ${{ secrets.FTP_SERVER }}
           ftp-username: ${{ secrets.FTP_USER }}
