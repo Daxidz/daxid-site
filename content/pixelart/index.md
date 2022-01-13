@@ -6,4 +6,4 @@ draft: false
 
 Here is a curated list of my pixel pushing creations!
 
-{{< gallery match="img/*" sortOrder="desc" rowHeight="180" margins="8" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=true previewType="blur" thumbnailHoverEffect="enlarge" embedPreview="true" loadJQuery=true >}}
+{{< gallery match="img/*" sortOrder="desc" rowHeight="180" margins="8" thumbnailResizeOptions="500x500 q90 Lanczos" showExif=true previewType="blur" thumbnailHoverEffect="enlarge" embedPreview="true" loadJQuery=true lastRow="nojustify" >}}
