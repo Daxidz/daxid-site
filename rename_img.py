@@ -23,12 +23,13 @@ for filename in os.listdir(directory):
         
 
         meta_file.close()
+        dummy, ext = os.path.splitext(f)
         
-        new_name = str(meta["Rating"]) + "_" + filename
+        new_name = str(meta["Rating"]) + "_" + meta["Title"] + ext
         re.sub('[^a-zA-Z0-9]','', new_name)
         new_name = new_name.replace(" ", "")
         new_name = directory + new_name
-        print("Renaming " + original_name + " in " + new_name)
+        # print("Renaming " + original_name + " in " + new_name)
         os.rename(original_name, new_name)
         os.rename(original_meta_name, new_name+".meta")
         
