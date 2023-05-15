@@ -1,4 +1,4 @@
-baseURL = 'http://daxid.ch/'
+baseURL = 'https://daxid.ch/'
 languageCode = 'en-us'
 title = 'Dax House'
 theme = ["terminal", "hugo-shortcode-gallery"]
